@@ -32,7 +32,8 @@ int main()
     }
     else
         printf("It is not a comment");
-        printf("Hello World");
+        printf("hello");
+       
 
     return 0;
 }
